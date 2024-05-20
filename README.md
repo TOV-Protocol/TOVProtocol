@@ -32,10 +32,15 @@ The currency of a "free economy/currency" must allow a user to:
 * And trade with its currency
 
 What is a "free currency"?
-A free currency is one that possesses the attributes of freedom. This might be hard to visualise hence lets look at it in the form of a comparison.
+A free currency is one that possesses the attributes of freedom of an individual. Here freedom, according to the book, talks about non nuisance to oneself and others. A similar proverb one might have heard is "Do unto others as you would have them do unto you".
 
 **Ownership**
+
 A free currency is one that is created "freely" by all the members of that community. The currency created is written in code and follows an algorithm for equal distribution amongst its members.
 
-A debt currency is one that is created by an entity with the expectation that it be returned, even more than was lent. This ties the individual to the issuer of the loan.
+A debt currency is one that is created by an entity with the expectation that it be returned, **even more** than was lent. This ties the individual to the issuer of the loan. More has been explained here as "[enslavement by the missing interest"](https://trm.creationmonetaire.info/probleme-de-la-monnaie-dette.html)
+
+>"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
+
+
 
