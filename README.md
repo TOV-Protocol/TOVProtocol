@@ -9,6 +9,7 @@ A tokenomics framework for blockchain projects trying to build communities.
   - [Introduction](#introduction)
   - [Theory](#theory)
     - [The Relative Theory of Money](#the-relative-theory-of-money)
+      - [UD as a universal measurement of value](#ud-as-a-universal-measurement-of-value)
 
 
 ## Introduction
@@ -48,3 +49,7 @@ A debt currency is one that is created by an entity with the expectation that it
 
 >"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
 
+#### UD as a universal measurement of value
+In the RTM it states that, when economic goods/services are measured in terms of Universal Dividend, the rise and fall of the price accordingly denotes the rise and fall of the good/service. For eg. let's assume the US dollar was a free currency and 1 UD<sub>\$</sub> is worth 470\$. If a car priced at 100 UD<sub>\$</sub> after one year started selling at 120 UD<sub>\$</sub>, one can safely assume that the value of the car has increased. Normally, we tend to think the opposite, that the value of dollar has decreased, hence the increase in the price of the goods. 
+
+Measuring in UD allows us to compare goods across economic zones, i.e. economies that deal with different currencies. The value an artist provides measured in UD<sub>`MUSIC`</sub> can be compared to the value a software developer provides in UD<sub>`GITHUB`</sub>
