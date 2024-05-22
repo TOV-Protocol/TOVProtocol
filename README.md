@@ -13,12 +13,15 @@ A tokenomics framework for blockchain projects trying to build communities.
 
 ## Introduction
 The Transfer Of Value(TOV) Protocol aims to be a protocol standard for blockchains to interop with each others economics goods.
-* The blockchain must must measure the value of their goods and services in terms of a Universal Dividend.
-* If the blockchain impelements a token, the distribution of token must follow "spatial" and "temporal" symmetries in order to ensure equal distribution of "new currency" to all participants. Following this symmetry allows us to calculate the share of new currency each individual in the community can earn, mirroring the functions of a Universal Dividend. 
-* Measuring goods in terms of Universal Dividend allows us to compare the value of a good/service an "identity" Ia who is part of "community" Ca created with another good created by "identity" Ib who is part of "community" Cb.
-* A Web Of Trust is built by the community. A Web of Trust is the digital equivalent of a group of individuals who trust each other. This web is built upon collecting certificates of individuals verifying others to create a graph of identities as nodes and edges are certificates pointing who is verifying whom.
+
+Here is a short clip of a longer video by Andreas on "what is money"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxIrc1rxhyI?si=nMVEtFct5IjMbUva&amp;clip=Ugkxpo3Qw-kWtUMIJoW7v2K51I3AA9iKGgKi&amp;clipt=ELDqARjwpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Understanding money and its psychological effects it has on us is something that hasn't been touched upon as an educational topic. We aren't taught what money is? why is money created? how is it created? The answers to all these questions define how society is built around us. Money functions as the oil that runs the economy. How money functions also define how we create relationships between individuals we deal with.
 
 ## Theory
+
+The basic idea here is to formalise a metric to measure the "value" of a service/good. This allows us to compare the same good across "economics zones", easing exchange of materials between individuals who use different currencies.
 
 ### [The Relative Theory of Money](https://trm.creationmonetaire.info/index.html)
 The Relative Theory of money suggests that money be created in the form of a universal dividend, the value which is a percentage of money supply, that itself has a lifetime that of which is similar to the participants taking part in the community.
@@ -32,15 +35,13 @@ The currency of a "free economy/currency" must allow a user to:
 * And trade with its currency
 
 What is a "free currency"?
-A free currency is one that possesses the attributes of freedom of an individual. Here freedom, according to the book, talks about non nuisance to oneself and others. A similar proverb one might have heard is "Do unto others as you would have them do unto you".
+A free currency is one that possesses the attributes of freedom of an individual. Here freedom, according to the book, talks about "non nuisance" to oneself and others. This basically means that I should be allowed to use a resource not so much that others in need aren't able to use the same.
 
 **Ownership**
 
-A free currency is one that is created "freely" by all the members of that community. The currency created is written in code and follows an algorithm for equal distribution amongst its members.
+A free currency is one that is created "freely" by all the members of that community. The currency created is written in code and follows an algorithm for equal distribution amongst its members. 
 
 A debt currency is one that is created by an entity with the expectation that it be returned, **even more** than was lent. This ties the individual to the issuer of the loan. More has been explained here as "[enslavement by the missing interest"](https://trm.creationmonetaire.info/probleme-de-la-monnaie-dette.html)
 
 >"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
-
-
 
