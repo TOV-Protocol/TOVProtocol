@@ -17,6 +17,7 @@ The Transfer Of Value(TOV) Protocol aims to be a protocol standard for blockchai
 Here is a short clip of a longer video by Andreas on "what is money"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxIrc1rxhyI?si=nMVEtFct5IjMbUva&amp;clip=Ugkxpo3Qw-kWtUMIJoW7v2K51I3AA9iKGgKi&amp;clipt=ELDqARjwpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 Understanding money and its psychological effects it has on us is something that hasn't been touched upon as an educational topic. We aren't taught what money is? why is money created? how is it created? The answers to all these questions define how society is built around us. Money functions as the oil that runs the economy. How money functions also define how we create relationships between individuals we deal with.
 
 ## Theory
