@@ -5,12 +5,15 @@ A tokenomics framework for blockchain projects trying to build communities.
 ## Table of Contents
 
 - [TOV Protocol](#tov-protocol)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Theory](#theory)
-    - [The Relative Theory of Money](#the-relative-theory-of-money)
-      - [UD as a universal measurement of value](#ud-as-a-universal-measurement-of-value)
-    - [Web Of Trust](#web-of-trust)
+	- [Table of Contents](#table-of-contents)
+	- [Introduction](#introduction)
+	- [Theory](#theory)
+		- [The Relative Theory of Money](#the-relative-theory-of-money)
+			- [UD as a universal measurement of value](#ud-as-a-universal-measurement-of-value)
+		- [Web Of Trust](#web-of-trust)
+	- [Framework](#framework)
+		- [Usecase](#usecase)
+			- [Tokenomics](#tokenomics)
 
 
 ## <span id="introduction">Introduction</span>
@@ -23,11 +26,11 @@ Here is a short clip of a longer video by Andreas on "what is money"
 
 Understanding money and its psychological effects it has on us is something that hasn't been touched upon as an educational topic. We aren't taught what money is? why is money created? how is it created? The answers to all these questions define how society is built around us. Money functions as the oil that runs the economy. How money functions also define how we create relationships between individuals we deal with.
 
-## <span id="theory">Theory<span>
+## <span id="theory">Theory</span>
 
 The basic idea here is to formalise a metric to measure the "value" of a service/good. This allows us to compare the same good across "economics zones", easing exchange of materials between individuals who use different currencies.
 
-### <span id="the-relative-theory-of-money">[The Relative Theory of Money](https://trm.creationmonetaire.info/index.html)<span>
+### <span id="the-relative-theory-of-money">[The Relative Theory of Money](http://en.trm.creationmonetaire.info/index.html)</span>
 The Relative Theory of money suggests that money be created in the form of a universal dividend, the value which is a percentage of money supply, that itself has a lifetime that of which is similar to the participants taking part in the community.
 
 We are introduced here to a currency whose value decays as time progresses. However, this is very similar to the currencies of the real worlds today which undergo inflation. Money is created by centralised entities in the forms of loans, thus increasing the money supply. Relative Theory of money suggests a new way to create this "free currency" that imbibes properties beneficial to the sustainance of an economy rather than debt, the property currency imbibes today. What "properties" are this?
@@ -45,7 +48,7 @@ A free currency is one that possesses the attributes of freedom of an individual
 
 A free currency is one that is created "freely" by all the members of that community. The currency created is written in code and follows an algorithm for equal distribution amongst its members. 
 
-A debt currency is one that is created by an entity with the expectation that it be returned, **even more** than was lent. This ties the individual to the issuer of the loan. More has been explained here as "[enslavement by the missing interest"](https://trm.creationmonetaire.info/probleme-de-la-monnaie-dette.html)
+A debt currency is one that is created by an entity with the expectation that it be returned, **even more** than was lent. This ties the individual to the issuer of the loan. More has been explained here as "[enslavement by the missing interest"](http://en.trm.creationmonetaire.info/probleme-de-la-monnaie-dette.html#c-l-asservissement-par-l-interet-manquant)
 
 >"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
 
@@ -54,8 +57,21 @@ In the RTM it states that, when economic goods/services are measured in terms of
 
 Measuring in UD allows us to compare goods across economic zones, i.e. economies that deal with different currencies. The value an artist provides measured in UD<sub>`MUSIC`</sub> can be compared to the value a software developer provides in UD<sub>`GITHUB`</sub>
 
+
 ### <span id="web-of-trust">Web Of Trust</span>
 >A network state is a highly aligned online community with a capacity for collective action that crowdfunds territory around the world and eventually gains diplomatic recognition from pre-existing states. - Balaji Srinivasan
 
 
 The number of UDs flowing through an identity/entity can now be a fair measure of the value that identity is contributing to the economy.
+
+
+## <span id="framework">Framework</span>
+Each blockchain community is its own economic zone if they implement their own currency generation. A blockchain community uses the UD as a tool to fairly measure the value of the goods and services its peers provide.
+
+### <span id="usecase">Usecase</span>
+>Filecoin is a decentralized storage network designed to store humanity's most important information.
+Let us apply the concept of a UD to one of the most advanced blockchains out there, Filecoin.
+
+#### <span id="tokenomics">Tokenomics</span>
+New tokens are distributed equally amongst all members of the community. The amount of tokens provided to each peer in the community is decided by the formula:
+
