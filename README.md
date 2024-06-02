@@ -31,7 +31,10 @@ Understanding money and its psychological effects it has on us is something that
 The basic idea here is to formalise a metric to measure the "value" of a service/good. This allows us to compare the same good across "economics zones", easing exchange of materials between individuals who use different currencies.
 
 ### <span id="the-relative-theory-of-money">[The Relative Theory of Money](http://en.trm.creationmonetaire.info/index.html)</span>
-The Relative Theory of money suggests that money be created in the form of a universal dividend, the value which is a percentage of money supply, that itself has a lifetime that of which is similar to the participants taking part in the community.
+
+>"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
+
+The Relative Theory of money suggests that money be created in the form of a universal dividend, the value which is a percentage of money supply, that itself has a lifetime matching the lifetime of the participants taking part in the economy.
 
 We are introduced here to a currency whose value decays as time progresses. However, this is very similar to the currencies of the real worlds today which undergo inflation. Money is created by centralised entities in the forms of loans, thus increasing the money supply. Relative Theory of money suggests a new way to create this "free currency" that imbibes properties beneficial to the sustainance of an economy rather than debt, the property currency imbibes today. What "properties" are this?
 
@@ -50,7 +53,6 @@ A free currency is one that is created "freely" by all the members of that commu
 
 A debt currency is one that is created by an entity with the expectation that it be returned, **even more** than was lent. This ties the individual to the issuer of the loan. More has been explained here as "[enslavement by the missing interest"](http://en.trm.creationmonetaire.info/probleme-de-la-monnaie-dette.html#c-l-asservissement-par-l-interet-manquant)
 
->"Physical laws are expressed in the same way (have the same form) in all repositories" (inertial or non-inertial repositories) - Theory of Relativity
 
 #### <span id="ud-as-a-universal-measurement-of-value">UD as a universal measurement of value</span>
 In the RTM it states that, when economic goods/services are measured in terms of Universal Dividend, the rise and fall of the price accordingly denotes the rise and fall of the good/service. For eg. let's assume the US dollar was a free currency and 1 UD<sub>\$</sub> is worth 470\$. If a car priced at 100 UD<sub>\$</sub> after one year started selling at 120 UD<sub>\$</sub>, one can safely assume that the value of the car has increased. Normally, we tend to think the opposite, that the value of dollar has decreased, hence the increase in the price of the goods. 

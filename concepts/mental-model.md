@@ -1,0 +1,9 @@
+# Mental Model
+
+This document aims to provide to the user a mental model. The goal being to provide the user with a unique perspective to see how terms like blockchain and web-of-trust fit into our current reality.
+
+* **Blockchain**: A timestamping server to record the events of the community at a given space and time. It's a an ever growing collection of data points of the state of a community.
+* **Hashing Algorithms**: Programs that take a string(could be any sequence of bytes of data) as an input and output a deterministic ID(also a string, but gibberish. for eg. 0x5eA1474CeFA1ea5986327F97932B587deD802CF7) of the inherent data which is of a specific length(usually 32 bytes, although it can be of any length).
+* **Consensus Algorithms**: Programs run by a minimum number of participants(called validators) of a blockchain in order to ensure the "liveness" of a blockchain, i.e. there is new information about the community flowing in all the time with algorithms in place to verify the legitimacy of the new data.
+* **Web Of Trust**: A "data structure" to store information of other peers/members inside the community. 
+* **Universal Dividend**: A new form of measurement of value, which uses a concept called "Relative Money". A "Relative Money" is a new form of currency(called "Libre Currency" by the creator) that is defined relative to every individuals measurement of value within that economic zone. Each individual is a unique "frame of reference" within this economy and can provide their unique perspective of value which is taken into account for the overall value of the currency.

@@ -1,0 +1,12 @@
+# Introduction
+
+> The experience a community can provide to its users and guests is unique to each community.
+
+### Keywords:
+* **Blockchain**: A timestamping server to record the events of the community at a given space and time. It's a an ever growing collection of data points of the state of a community.
+* **Hashing Algorithms**: Programs that take a string(could be any sequence of bytes of data) as an input and output a deterministic ID(also a string, but gibberish. for eg. 0x5eA1474CeFA1ea5986327F97932B587deD802CF7) of the inherent data which is of a specific length(usually 32 bytes, although it can be of any length).
+* **Consensus Algorithms**: Programs run by a minimum number of participants(called validators) of a blockchain in order to ensure the "liveness" of a blockchain, i.e. there is new information about the community flowing in all the time with algorithms in place to verify the legitimacy of the new data.
+
+The community running the blockchain are a group of individuals having a common vision or goal. On code, a blockchain is a new kind of "data structure". It's a unique way of storing data that allows us to create applications such as internet money. Internet money had been a problem for the cypherpunks for a long time until the advent of bitcoin. Bitcoin's creator, Satoshi Nakamoto, had a few insights on how cryptography, hashing algorithms, a consensus algorithm can be tied together to create a computer program with capabilities of automating governance inside a community. The backbone of a community is the vision, the currency used in the community is just a tool used by the participants to allow exchange of goods and services within the economy. It is a tool that satisfies the "Medium of Exchange" objective. With this new kind of internet money that is fair and has no capability of a single individual to have unfair advantage over any other individual, be it in the present or future, all participants in the community can now focus on providing services unique to their capabilities in society. Governance is now something every individual takes part in using this tool that makes it easy for us.
+
+In this paper, we talk about how a change in unit of measurement of value of the communities services and goods allows us to fairly measure the true value output to the society of the same. This allows us to identify individuals that benefit society and possibly elect them to run local governance.
