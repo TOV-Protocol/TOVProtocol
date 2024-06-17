@@ -24,7 +24,7 @@ Here is a short clip of a longer video by Andreas on "what is money"
 [![Money is the killer app](https://github.com/AireshBhat/TOVProtocol/assets/23222537/96727c33-28b8-48cb-93ec-27a221d0972b)](https://www.youtube.com/embed/MxIrc1rxhyI?si=nMVEtFct5IjMbUva&amp;clip=Ugkxpo3Qw-kWtUMIJoW7v2K51I3AA9iKGgKi&amp;clipt=ELDqARjwpQM)
 
 
-Understanding money and its psychological effects it has on us is something that hasn't been touched upon as an educational topic. We aren't taught what money is? why is money created? how is it created? The answers to all these questions define how society is built around us. Money functions as the oil that runs the economy. How money functions also define how we create relationships between individuals we deal with.
+Understanding money and its psychological effects it has on us is something that hasn't been touched upon as an educational topic. We aren't taught what money is? Why is money created? How is it created? The answers to all these questions define how society is built around us. Money functions as the oil that runs the economy. How money functions also define how we create relationships between individuals we deal with.
 
 ## <span id="theory">Theory</span>
 
@@ -36,11 +36,19 @@ The basic idea here is to formalise a metric to measure the "value" of a service
 
 The Relative Theory of money suggests that money be created in the form of a universal dividend, the value which is a percentage of money supply, that itself has a lifetime matching the lifetime of the participants taking part in the economy.
 
-We are introduced here to a currency whose value decays as time progresses. However, this is very similar to the currencies of the real worlds today which undergo inflation. Money is created by centralised entities in the forms of loans, thus increasing the money supply. Relative Theory of money suggests a new way to create this "free currency" that imbibes properties beneficial to the sustainance of an economy rather than debt, the property currency imbibes today. What "properties" are this?
+![Screenshot 2024-06-17 at 5 51 28 PM](https://github.com/AireshBhat/TOVProtocol/assets/23222537/7df0eaf9-2908-45d7-af4c-10d26ab4313b)
+> c: **Relative** amount of new money created (please pay attention to "relative") during a given "**small**" time period (please pay attention to "small")
+> ev: Average life expectancy (Inside the economic zone)
+
+In today's financial system, the money we use "never" dies. Here the value c has "bounds", it can take on a Relative value between these bounds and is recalculated when it exceeds them(cure to issuance of new currency)
+
+>In ecology, no species creates waste that other species cannot use. - Ch 10. The Law of Return, [Sacred Economics](http://sacred-economics.com/sacred-economics-chapter-10-the-law-of-return/)
+
+We are introduced here to a currency whose value decays as time progresses, similar to how inflation reduces the value of money in todays economy, however not the same. Money is created by centralised entities in the forms of loans, thus increasing the money supply. Relative Theory of money suggests a new way to create this "free currency" that imbibes properties beneficial to the sustainance of an economy rather than debt, the property currency imbibes today. What "properties" are this?
 
 The currency of a "free economy/currency" must allow a user to:
-* Use resources
-* Create and assign value
+* Use resources; e.g. Public goods such as public transport, parks, technological innovations such as radio, TCP/IP(internet)
+* Create and assign value; e.g. Price your good or commodity as per your judgement,
 * Chose any monetary system of their liking
 * And trade with its currency
 
